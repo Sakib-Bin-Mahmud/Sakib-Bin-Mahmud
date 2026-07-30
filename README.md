@@ -59,8 +59,8 @@ Thesis: *Text Generation from Bengali Sign Language (BdSL) Image using Convoluti
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakib-Bin-Mahmud&show_icons=true&theme=default&hide_border=true" alt="Sakib's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib-Bin-Mahmud&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-nine-rho.vercel.app/api?username=Sakib-Bin-Mahmud&show_icons=true&theme=default&hide_border=true" alt="Sakib's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=Sakib-Bin-Mahmud&layout=compact&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="left">
