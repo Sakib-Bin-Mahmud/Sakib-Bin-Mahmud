@@ -58,9 +58,18 @@ Thesis: *Text Generation from Bengali Sign Language (BdSL) Image using Convoluti
 
 ## 📊 GitHub Stats
 
+Includes private contributions, refreshed daily via [GitHub Actions](.github/workflows/profile-summary-cards.yml).
+
 <p align="left">
-  <img src="https://github-readme-stats-nine-rho.vercel.app/api?username=Sakib-Bin-Mahmud&show_icons=true&theme=default&hide_border=true" alt="Sakib's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=Sakib-Bin-Mahmud&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://raw.githubusercontent.com/Sakib-Bin-Mahmud/Sakib-Bin-Mahmud/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Sakib-Bin-Mahmud/Sakib-Bin-Mahmud/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/Sakib-Bin-Mahmud/Sakib-Bin-Mahmud/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Sakib-Bin-Mahmud/Sakib-Bin-Mahmud/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/Sakib-Bin-Mahmud/Sakib-Bin-Mahmud/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="left">

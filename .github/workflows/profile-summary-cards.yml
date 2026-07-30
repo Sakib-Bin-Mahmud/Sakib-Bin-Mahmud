@@ -23,7 +23,7 @@ jobs:
           UTC_OFFSET: 6
           EXCLUDE: ""
           AUTO_PUSH: true
-          THEME: ""
+          THEME: "default"
           ANIMATION: ""
           DURATION: ""
           NAME: ""
